@@ -1,6 +1,6 @@
 ## Nombres bioinformatic hub
 
-1.
+1. Diego Montesinos Valencia
 
 2.
 
